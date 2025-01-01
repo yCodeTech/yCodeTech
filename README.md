@@ -1,14 +1,32 @@
+<!--
+**yCodeTech/yCodeTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
 <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg">
 
-### Hello, I'm Stuart J Norman ![](https://komarev.com/ghpvc/?username=ycodetech&color=f75353&style=flat-square)
+### Hello, I'm Stuart J Norman ![](https://komarev.com/ghpvc/?username=ycodetech&color=f75353&style=for-the-badge)
 
 
 I am a Web Developer and I graduated from University of Huddersfield in 2024 with a First in Web Programming BSc (Hons).
 
-I love to code. **I craft beautiful websites and develop beautiful code.** Just because nobody sees the actual code behind the beautiful sites doesn't mean the code should be ugly and messy...
+I love to code. **I craft beautiful websites and develop beautiful code.** Just because nobody sees the actual code behind the scenes, doesn't mean the code should be ugly and messy...
+
+Using the below technologies and tools,
 
 
-### Technologies
+#### Technologies
 <!-- Badges documented by https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,38 +49,30 @@ I love to code. **I craft beautiful websites and develop beautiful code.** Just 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Design Tools
+#### Design Tools
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### Fav Q&A Debugging Sites
+#### Fav Q&A Debugging Sites
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Stack Exchange](https://img.shields.io/badge/StackExchange-%231E5397.svg?style=for-the-badge&logo=StackExchange&logoSize=auto)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### Preferred IDE and OS
+#### Preferred IDE and OS
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Code Auto-Styling Tools
+#### Code Auto-Styling Tools
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![PHP CodeSniffer](https://img.shields.io/badge/PHP_CodeSniffer-053245?style=for-the-badge)
 
 
+<hr style="height:1px">
 
+### Contact
+Take a look at my [CV](/Stuart_Norman_CV.pdf) for education, and employment history and contact details.
 
-<!--
-**yCodeTech/yCodeTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://t4.ftcdn.net/jpg/07/89/03/09/360_F_789030930_mGOqeqNu7M2uRH7w91mDU9SYJgjUswtY.jpg">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<small>Disclaimer: The images used are found via Google. No copyright or usage infringment intended. </small>
