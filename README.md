@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg">
 
-### Hello, I'm Stuart J Norman ![](https://komarev.com/ghpvc/?username=ycodetech&color=f75353&style=for-the-badge)
+### Hello, I'm Stuart J Norman
+![](https://komarev.com/ghpvc/?username=ycodetech&color=f75353&style=for-the-badge)
 
 
 I am a Web Developer and I graduated from University of Huddersfield in 2024 with a First in Web Programming BSc (Hons).
