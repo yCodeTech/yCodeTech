@@ -13,18 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![](https://komarev.com/ghpvc/?username=ycodetech&color=f75353&style=for-the-badge)
 <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg">
 
-### Hello, I'm Stuart J Norman
-![](https://komarev.com/ghpvc/?username=ycodetech&color=f75353&style=for-the-badge)
+### Hello, I'm Stuart J Norman...
 
+...a Web Developer from Yorkshire. I graduated from University of Huddersfield in 2024 with a First in Web Programming BSc (Hons).
 
-I am a Web Developer and I graduated from University of Huddersfield in 2024 with a First in Web Programming BSc (Hons).
+**I craft beautiful websites and develop beautiful code.** Just because nobody sees the underlying code, doesn't mean it should be ugly and messy...
 
-I love to code. **I craft beautiful websites and develop beautiful code.** Just because nobody sees the actual code behind the scenes, doesn't mean the code should be ugly and messy...
-
-Using the below technologies and tools,
+When I'm typing away and coding solutions, I rely on the following tools and technologies.
 
 
 #### Technologies
@@ -41,14 +39,17 @@ Using the below technologies and tools,
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Roots Bedrock](https://img.shields.io/badge/Roots_Bedrock-525DDC.svg?style=for-the-badge&logo=rootsbedrock&logoColor=white)
 ![Roots Sage](https://img.shields.io/badge/Roots_Sage-525DDC.svg?style=for-the-badge&logo=rootssage&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+#### Command Line Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Composer](https://img.shields.io/badge/composer-%23624B2C.svg?style=for-the-badge&logo=composer&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Laravel Valet Windows 3](https://img.shields.io/badge/windows_3-%234B40C8.svg?style=for-the-badge&logo=laravel&logoColor=white&label=Laravel%20Valet&labelColor=BD74E6)
 
 #### Design Tools
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
@@ -75,5 +76,3 @@ Using the below technologies and tools,
 Take a look at my [CV](/Stuart_Norman_CV.pdf) for education, and employment history and contact details.
 
 <img src="https://t4.ftcdn.net/jpg/07/89/03/09/360_F_789030930_mGOqeqNu7M2uRH7w91mDU9SYJgjUswtY.jpg">
-
-<small>Disclaimer: The images used are found via Google. No copyright or usage infringment intended. </small>
