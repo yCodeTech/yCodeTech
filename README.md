@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=ycodetech&color=f75353&style=for-the-badge)
 <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg">
 
-### Hello, I'm Stuart J Norman...
+### Hello, I'm Stuart J Norman
 
-...a Web Developer from Yorkshire. I graduated from University of Huddersfield in 2024 with a First in Web Programming BSc (Hons).
+A Web Developer from Yorkshire. I graduated from University of Huddersfield in 2024 with a First in Web Programming BSc (Hons).
 
 **I craft beautiful websites and develop beautiful code.** Just because nobody sees the underlying code, doesn't mean it should be ugly and messy...
 
