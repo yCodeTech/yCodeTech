@@ -69,6 +69,9 @@ When I'm typing away and coding solutions, I rely on the following tools and tec
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![PHP CodeSniffer](https://img.shields.io/badge/PHP_CodeSniffer-053245?style=for-the-badge)
 
+### Noteable Projects
+- [Laravel Valet Windows 3](https://github.com/yCodeTech/valet-windows)
+- [VScode extension Automatic Comment Blocks](https://github.com/yCodeTech/auto-comment-blocks)
 
 <hr style="height:1px">
 
