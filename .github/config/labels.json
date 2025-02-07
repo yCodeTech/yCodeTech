@@ -1,0 +1,22 @@
+[
+    {
+        "name": "composer",
+        "color": "817156",
+        "description": "For usage with dependabot and auto-merge actions."
+    },
+    {
+        "name": "npm",
+        "color": "c2e0c6",
+        "description": "For usage with dependabot and auto-merge actions."
+    },
+    {
+        "name": "dependabot",
+        "color": "F79B37",
+        "description": "For usage with dependabot and auto-merge actions."
+    },
+    {
+        "name": "dependencies",
+        "color": "2B8402",
+        "description": "For usage with dependabot and auto-merge actions."
+    }
+]
