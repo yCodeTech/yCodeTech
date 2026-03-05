@@ -76,6 +76,6 @@ When I'm typing away and coding solutions, I rely on the following tools and tec
 <hr style="height:1px">
 
 ### Contact
-Take a look at my [CV](/Stuart_Norman_CV.pdf) for education, and employment history and contact details.
+Take a look at my [CV on OneDrive](https://1drv.ms/b/c/bb56fbfd05aec110/IQDCLj8el9WcTYnIJ4NEFX9LAXVckNBxP0t9HzOo1WkImn8?e=1J159U) for education, and employment history and contact details.
 
 <img src="https://t4.ftcdn.net/jpg/07/89/03/09/360_F_789030930_mGOqeqNu7M2uRH7w91mDU9SYJgjUswtY.jpg">
