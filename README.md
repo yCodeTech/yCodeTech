@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner](https://octometrics.vercel.app/api/banner?name=Stuart%20Norman&title=Web%20Developer&tech=HTML%2C%20CSS%2C%20PHP%2C%20Sass%2C%20JS%2C%20TS&pattern=dots&wave=true&align=left&theme=dark)
-
-<img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg">
+<img src="./images/Holographic_web_developer_coding_banner.png" alt="Holographic web developer coding banner - created by AI." width="100%">
 
 ### Hello, I'm Stuart Norman
 
@@ -87,4 +85,4 @@ When I'm typing away and coding solutions, I rely on the following tools and tec
 
 Take a look at my [CV on OneDrive](https://1drv.ms/b/c/bb56fbfd05aec110/IQDCLj8el9WcTYnIJ4NEFX9LAXVckNBxP0t9HzOo1WkImn8?e=1J159U) for education, and employment history and contact details.
 
-<img src="https://t4.ftcdn.net/jpg/07/89/03/09/360_F_789030930_mGOqeqNu7M2uRH7w91mDU9SYJgjUswtY.jpg">
+<img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg">
