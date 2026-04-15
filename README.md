@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=ycodetech&color=f75353&style=for-the-badge)
+![Banner](https://octometrics.vercel.app/api/banner?name=Stuart%20Norman&title=Web%20Developer&tech=HTML%2C%20CSS%2C%20PHP%2C%20Sass%2C%20JS%2C%20TS&pattern=dots&wave=true&align=left&theme=dark)
+
 <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg">
 
-### Hello, I'm Stuart J Norman
+### Hello, I'm Stuart Norman
 
 A Web Developer from Yorkshire. I graduated from University of Huddersfield in 2024 with a First in Web Programming BSc (Hons).
 
@@ -24,9 +25,10 @@ A Web Developer from Yorkshire. I graduated from University of Huddersfield in 2
 
 When I'm typing away and coding solutions, I rely on the following tools and technologies.
 
-
 #### Technologies
+
 <!-- Badges documented by https://github.com/Ileriayo/markdown-badges -->
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -45,6 +47,7 @@ When I'm typing away and coding solutions, I rely on the following tools and tec
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### Command Line Tools
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -52,30 +55,36 @@ When I'm typing away and coding solutions, I rely on the following tools and tec
 ![Laravel Valet Windows 3](https://img.shields.io/badge/windows_3-%234B40C8.svg?style=for-the-badge&logo=laravel&logoColor=white&label=Laravel%20Valet&labelColor=BD74E6)
 
 #### Design Tools
+
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 #### Fav Q&A Debugging Sites
+
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Stack Exchange](https://img.shields.io/badge/StackExchange-%231E5397.svg?style=for-the-badge&logo=StackExchange&logoSize=auto)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 #### Preferred IDE and OS
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### Code Auto-Styling Tools
+
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![PHP CodeSniffer](https://img.shields.io/badge/PHP_CodeSniffer-053245?style=for-the-badge)
 
 ### Noteable Projects
+
 - [Laravel Valet Windows 3](https://github.com/yCodeTech/valet-windows)
 - [VScode extension Automatic Comment Blocks](https://github.com/yCodeTech/auto-comment-blocks)
 
 <hr style="height:1px">
 
 ### Contact
+
 Take a look at my [CV on OneDrive](https://1drv.ms/b/c/bb56fbfd05aec110/IQDCLj8el9WcTYnIJ4NEFX9LAXVckNBxP0t9HzOo1WkImn8?e=1J159U) for education, and employment history and contact details.
 
 <img src="https://t4.ftcdn.net/jpg/07/89/03/09/360_F_789030930_mGOqeqNu7M2uRH7w91mDU9SYJgjUswtY.jpg">
