@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./images/Holographic_web_developer_coding_banner.png" alt="Holographic web developer coding banner - created by AI." width="100%">
+<img src="./images/Holographic_web_developer_coding_banner.jpg" alt="Holographic web developer coding banner - created by AI." width="100%">
 
 ### Hello, I'm Stuart Norman
 
